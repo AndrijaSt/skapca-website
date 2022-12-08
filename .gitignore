@@ -1,7 +1,7 @@
 
 hugo.exe
-*/.hugo_build.lock
+/.hugo_build.lock
 
-*/resources/_gen/
-*/assets/jsconfig.json
-*/hugo_stats.json
+/resources/_gen/
+/assets/jsconfig.json
+/hugo_stats.json
